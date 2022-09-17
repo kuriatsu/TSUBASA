@@ -1,6 +1,6 @@
 # TSUBASA
 ![tsubasa_logo](https://user-images.githubusercontent.com/38074802/166148405-fe77e995-4f9a-439c-8c9e-243bb4e6d836.png)
-![tsubasa](https://github.com/kuriatsu/TSUBASA/blob/main/image/tsubasa.png)
+![tsubasa](https://github.com/kuriatsu/TSUBASA/blob/main/image/tsubasa.jpg)
 ![tsubasa](https://user-images.githubusercontent.com/38074802/190857928-e992ac4c-d6b6-4465-a5db-99b8effb1a7b.png)
 
 
