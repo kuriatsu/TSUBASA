@@ -21,6 +21,7 @@
 
 2. Insert nut with soldering iron
 <img src="https://user-images.githubusercontent.com/38074802/193449161-69ac4bcb-eb06-446f-8ef0-4d5a86cb3c55.png" width="80%">
+<img src="https://user-images.githubusercontent.com/38074802/193450305-34cdcd5e-56e2-43b8-abcb-a232220b0b38.jpg" width="80%">
 
 3. Attach switches, socket, rotary encoder on the middle plate
 
