@@ -17,7 +17,7 @@
 |TRRS cable | 1 | |
 
 ### Procedure
-1. Print parts (Shell, Bottom plate, Middle plate)
+1. Print parts (shell, middle plate, bottom plate, rotary encoder)
 
 2. Insert nut with soldering iron
 <img src="https://user-images.githubusercontent.com/38074802/193449161-69ac4bcb-eb06-446f-8ef0-4d5a86cb3c55.png" width="80%">
