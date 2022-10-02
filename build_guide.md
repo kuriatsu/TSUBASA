@@ -17,19 +17,26 @@
 |TRRS cable | 1 | |
 
 ### Procedure
-1. Print parts
+1. Print parts (Shell, Bottom plate, Middle plate)
 
 2. Insert nut with soldering iron
+<img src="https://user-images.githubusercontent.com/38074802/193449161-69ac4bcb-eb06-446f-8ef0-4d5a86cb3c55.png" width="80%">
 
-3. Insert keyswitches, socket, rotary encoder
+3. Attach switches, socket, rotary encoder on the middle plate
 
-4. Solder the sockets
+4. Solder the sockets, LCD, rotary encoder, TRRS socket, and type-c socket   
+   <p>
+      <img src="https://user-images.githubusercontent.com/38074802/193449488-7820d84f-c3b9-41e9-a278-670353e728e2.png" width="54%">
+      <img src="https://user-images.githubusercontent.com/38074802/193449491-563a52d2-488f-413b-bcf4-701e1343fece.png" width="45%">
+   </p>
+     
+6. Attach LCD, TRRS socket, and type-c socket to the shell
+<img src="https://user-images.githubusercontent.com/38074802/193449620-eb736c2f-4468-4092-b9c3-2faa789ca888.jpg" width="80%">
+<img src="https://user-images.githubusercontent.com/38074802/193449692-3ebd16e7-f60d-4fa3-8d6b-13b9fda9867e.jpg" width="80%">
+<img src="https://user-images.githubusercontent.com/38074802/193449684-f11afc72-37a1-4423-b523-097531dc780b.jpg" width="80%">
 
-5. Solder the rotary encoder and LCD
+7. Put LED backlight (anywhere you want)
+<img src="https://user-images.githubusercontent.com/38074802/193449501-04bc17e2-a080-406e-9bf6-281788be2427.jpg" width="80%">
 
-6. Solder the pro micro
-![tsubasa_pro_micro](https://user-images.githubusercontent.com/38074802/187055689-a049b1ff-4f10-448e-ae15-afb854a40603.png)
-
-7. Put LED backlight on the bottom plate
-
-8. Put together and DONE!
+8. Screw them and DONE!
+<img src="https://user-images.githubusercontent.com/38074802/193449587-0a486c17-388c-478d-90b8-aa2a96026feb.jpg" width="80%">
