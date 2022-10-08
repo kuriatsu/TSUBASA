@@ -16,5 +16,9 @@
 Build guide is [here!](build_guide.md)
 
 ## Firmware
-Now in PR...  
-[QMK Firmware]()
+[QMK Firmware]() Now in PR...
+
+The basic keymap is avairable at  
+qmk_firmware/keyboards/handwired/tsubasa
+
+If you want to use custom keymap with multifunctional rotary encoder, use ![keymap/multifunc_encoder](keymap/multifunc_encoder)
